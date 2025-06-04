@@ -1,13 +1,15 @@
 # WASCAL Data Warehouse - Application de Reporting
-
-Application Streamlit pour l'analyse des données climatiques et agricoles d'Afrique de l'Ouest.
+Application de visualisation des données de recherche WASCAL (West African Science Service Centre on Climate Change and Adapted Land Use) pour l'Afrique de l'Ouest.
 
 ## Fonctionnalités
 - Dashboard interactif
-- Analyse climatique
-- Visualisations géographiques
-- Tendances temporelles
-- Traçabilité des sources de données
+- Visualisations des données de recherche
+- Analyses géographiques et temporelles
+- Suivi des sources de données
 
-## Sources de données
-- ANACIM, ANSD, DAPSA, ISRA, DGPRE
+## Sources de données (simulée)
+- ANACIM (Météorologie)
+- ANSD (Statistiques)
+- DAPSA (Agriculture) 
+- ISRA (Recherche agricole)
+- DGPRE (Ressources en eau)
